@@ -1,7 +1,7 @@
 {
   "name": "Noi Mode",
   "version": "0.1.8",
-  "sync": "https://filedn.com/lYCkoKFro6wuQYWdiiqk5j4/Noi%20Configs.json",
+  "sync": "https://raw.githubusercontent.com/choufib/Shared_Settings/refs/heads/main/Noi%20Configs.json",
   "modes": [
     {
       "id": "noi@ai",
@@ -214,28 +214,10 @@
       "url": "https://idx.google.com"
     },
     {
-      "id": "noi:qqmail",
-      "parent": "noi@email",
-      "text": "QQ 邮箱",
-      "url": "https://mail.qq.com"
-    },
-    {
-      "id": "noi:yi163",
-      "parent": "noi@email",
-      "text": "网易邮箱",
-      "url": "https://mail.163.com"
-    },
-    {
-      "id": "noi:bilibili",
-      "parent": "noi@video",
-      "text": "哔哩哔哩",
-      "url": "https://www.bilibili.com"
-    },
-	{
-	  "id": "deepseek",
-	  "parent": "noi@ai",
-	  "text": "deepseek",
-	  "url": "https://www.deepseek.com/"
-	}
+      "id": "deepseek",
+      "parent": "noi@ai",
+      "text": "deepseek",
+      "url": "https://www.deepseek.com/"
+    }
   ]
 }
